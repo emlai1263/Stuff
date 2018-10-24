@@ -11,6 +11,7 @@
     "lint": "ionic-app-scripts lint"
   },
   "dependencies": {
+    "hoek": ">=4.2.1",
     "cryptiles": ">=4.1.2",
     "@angular/animations": "5.2.10",
     "@angular/common": "5.2.10",
@@ -41,6 +42,7 @@
     "zone.js": "0.8.26"
   },
   "devDependencies": {
+    "hoek": ">=4.2.1",
     "@ionic/app-scripts": "3.2.0",
     "typescript": "~2.6.2",
     "cryptiles": ">=4.1.2"
